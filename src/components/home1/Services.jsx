@@ -12,7 +12,7 @@ function Services() {
             <div className="row">
               <div className="col-lg-4">
                 <a
-                  href="#"
+                  href="/services"
                   className="service-card wow fadeInUp"
                   data-wow-delay="0.2s"
                 >

@@ -20,7 +20,7 @@ function About() {
                   </defs>
                   <text>
                     <textPath xlinkHref="#textcircle" textLength="900">
-                      Landscape design - archin Studio -
+                      Architects - Eyecatch Advertising -
                     </textPath>
                   </text>
                 </svg>

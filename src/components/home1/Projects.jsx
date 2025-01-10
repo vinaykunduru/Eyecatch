@@ -1,5 +1,5 @@
-import React from 'react';
-import data1 from '../../data/home1/projects/projects1';
+import React from "react";
+import data1 from "../../data/home1/projects/projects1";
 function Projects() {
   return (
     <section className="tc-projects-style1">
@@ -19,10 +19,10 @@ function Projects() {
                     data-bs-target="#pills-proj1"
                     type="button"
                   >
-                    Featured
+                    Advertising
                   </button>
                 </li>
-                <li className="nav-item" role="presentation">
+                {/* <li className="nav-item" role="presentation">
                   <button
                     className="nav-link"
                     id="pills-proj2-tab"
@@ -65,12 +65,12 @@ function Projects() {
                   >
                     Furniture
                   </button>
-                </li>
+                </li> */}
               </ul>
             </div>
             <div className="col-lg-3 mt-4 mt-lg-0 text-lg-end">
               <a
-                href="#"
+                href="/works"
                 className="butn border rounded-pill color-orange1 border-orange1 hover-bg-orange1"
               >
                 <span>
@@ -144,12 +144,12 @@ function Projects() {
                           <div className="info">
                             <div className="tags">
                               <a href="#"> {item.sub1} </a>
-                              <a href="#"> {item.sub2} </a>
+                              {/* <a href="#"> {item.sub2} </a> */}
                             </div>
                             <h3 className="title">
                               <a href="#"> {item.title} </a>
                             </h3>
-                            <div className="text">{item.desc}</div>
+                            {/* <div className="text">{item.desc}</div> */}
                           </div>
                         </div>
                       </div>

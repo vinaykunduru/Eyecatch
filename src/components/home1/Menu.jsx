@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Menu() {
   return (
@@ -10,28 +10,28 @@ function Menu() {
           <div className="main_links">
             <ul>
               <li>
-                <a href="#" className="main_link">
-                  home
+                <a href="/" className="main_link">
+                  Home
                 </a>
               </li>
               <li>
-                <a href="#" className="main_link">
-                  studio
+                <a href="/about" className="main_link">
+                  About
                 </a>
               </li>
               <li>
-                <a href="#" className="main_link">
-                  cases
+                <a href="/services" className="main_link">
+                  Services
                 </a>
               </li>
               <li>
-                <a href="#" className="main_link">
-                  news
+                <a href="/works" className="main_link">
+                  Works
                 </a>
               </li>
               <li>
-                <a href="#" className="main_link">
-                  contact
+                <a href="/contact" className="main_link">
+                  Contact
                 </a>
               </li>
             </ul>

@@ -38,7 +38,7 @@ function Experience() {
                 directors and top-level leadership.
               </div>
               <a
-                href="#"
+                href="/about"
                 className="butn rounded-pill mt-50 hover-bg-black bg-white"
               >
                 <span>

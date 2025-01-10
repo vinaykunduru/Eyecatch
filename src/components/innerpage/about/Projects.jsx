@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Projects() {
   return (
@@ -7,7 +7,7 @@ function Projects() {
         <div className="row align-items-center">
           <div className="col-lg-8">
             <h2 className="fsz-45 fw-500">
-              Latest{' '}
+              Latest{" "}
               <span className="sub-font fst-italic color-orange1 fw-400">
                 projects
               </span>
@@ -15,7 +15,7 @@ function Projects() {
           </div>
           <div className="col-lg-4 text-lg-end mt-4 mt-lg-0">
             <a
-              href="#"
+              href="/works"
               className="butn borderd border rounded-pill hover-bg-black"
             >
               <span>
@@ -27,7 +27,7 @@ function Projects() {
         </div>
         <div className="tabs-links mt-40">
           <ul className="nav nav-pills" id="pills-tab" role="tablist">
-            <li className="nav-item" role="presentation">
+            {/* <li className="nav-item" role="presentation">
               <button
                 className="nav-link active"
                 id="pills-proj1-tab"
@@ -70,7 +70,7 @@ function Projects() {
               >
                 Furniture
               </button>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
@@ -88,12 +88,104 @@ function Projects() {
                   <div className="project-card">
                     <a href="#" className="img">
                       <img
-                        src="/innerpages/assets/img/projects/proj1.jpg"
+                        src="/innerpages/assets/img/projects/MITHAI_POTLAM.jpg"
                         alt=""
                         className="img-cover"
                       />
                       <div className="year">
-                        <span className="txt"> 2023 </span>
+                        <span className="txt"> 2024 </span>
+                        <img
+                          src="/innerpages/assets/img/project_shape.png"
+                          alt=""
+                          className="bg"
+                        />
+                      </div>
+                      <div className="arrow">
+                        <i className="fal fa-long-arrow-right ico-45"></i>
+                      </div>
+                    </a>
+                    <div className="info">
+                      <div className="tags">
+                        <a href="#"> Advertising </a>
+                        <a href="#"> Branding </a>
+                      </div>
+                      <h3 className="title">
+                        <a href="#"> Mithai Potlam </a>
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div className="swiper-slide">
+                  <div className="project-card">
+                    <a href="#" className="img">
+                      <img
+                        src="/innerpages/assets/img/projects/dps_poster_1-scaled.jpg"
+                        alt=""
+                        className="img-cover"
+                      />
+                      <div className="year">
+                        <span className="txt"> 2024 </span>
+                        <img
+                          src="/innerpages/assets/img/project_shape.png"
+                          alt=""
+                          className="bg"
+                        />
+                      </div>
+                      <div className="arrow">
+                        <i className="fal fa-long-arrow-right ico-45"></i>
+                      </div>
+                    </a>
+                    <div className="info">
+                      <div className="tags">
+                        <a href="#"> Advertising </a>
+                      </div>
+                      <h3 className="title">
+                        <a href="#"> Delhi Public School </a>
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div className="swiper-slide">
+                  <div className="project-card">
+                    <a href="#" className="img">
+                      <img
+                        src="/innerpages/assets/img/projects/eagle_coasts_mock_up-scaled.jpg"
+                        alt=""
+                        className="img-cover"
+                      />
+                      <div className="year">
+                        <span className="txt"> 2024 </span>
+                        <img
+                          src="/innerpages/assets/img/project_shape.png"
+                          alt=""
+                          className="bg"
+                        />
+                      </div>
+                      <div className="arrow">
+                        <i className="fal fa-long-arrow-right ico-45"></i>
+                      </div>
+                    </a>
+                    <div className="info">
+                      <div className="tags">
+                        <a href="#"> Branding </a>
+                        <a href="#"> Advertising </a>
+                      </div>
+                      <h3 className="title">
+                        <a href="#"> Eagle Coats </a>
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div className="swiper-slide">
+                  <div className="project-card">
+                    <a href="#" className="img">
+                      <img
+                        src="/innerpages/assets/img/projects/GV_mall_mock_up-scaled.jpg"
+                        alt=""
+                        className="img-cover"
+                      />
+                      <div className="year">
+                        <span className="txt"> 2024 </span>
                         <img
                           src="/innerpages/assets/img/project_shape.png"
                           alt=""
@@ -107,102 +199,10 @@ function Projects() {
                     <div className="info">
                       <div className="tags">
                         <a href="#"> Interior Design </a>
-                        <a href="#"> Furniture </a>
+                        <a href="#"> Advertising </a>
                       </div>
                       <h3 className="title">
-                        <a href="#"> ABERY Apartment Master Bedroom </a>
-                      </h3>
-                    </div>
-                  </div>
-                </div>
-                <div className="swiper-slide">
-                  <div className="project-card">
-                    <a href="#" className="img">
-                      <img
-                        src="/innerpages/assets/img/projects/proj2.jpg"
-                        alt=""
-                        className="img-cover"
-                      />
-                      <div className="year">
-                        <span className="txt"> 2022 </span>
-                        <img
-                          src="/innerpages/assets/img/project_shape.png"
-                          alt=""
-                          className="bg"
-                        />
-                      </div>
-                      <div className="arrow">
-                        <i className="fal fa-long-arrow-right ico-45"></i>
-                      </div>
-                    </a>
-                    <div className="info">
-                      <div className="tags">
-                        <a href="#"> Furniture </a>
-                      </div>
-                      <h3 className="title">
-                        <a href="#"> Neoclassical Sofa </a>
-                      </h3>
-                    </div>
-                  </div>
-                </div>
-                <div className="swiper-slide">
-                  <div className="project-card">
-                    <a href="#" className="img">
-                      <img
-                        src="/innerpages/assets/img/projects/proj3.jpg"
-                        alt=""
-                        className="img-cover"
-                      />
-                      <div className="year">
-                        <span className="txt"> 2022 </span>
-                        <img
-                          src="/innerpages/assets/img/project_shape.png"
-                          alt=""
-                          className="bg"
-                        />
-                      </div>
-                      <div className="arrow">
-                        <i className="fal fa-long-arrow-right ico-45"></i>
-                      </div>
-                    </a>
-                    <div className="info">
-                      <div className="tags">
-                        <a href="#"> Interior Design </a>
-                        <a href="#"> Furniture </a>
-                      </div>
-                      <h3 className="title">
-                        <a href="#"> Salone Skin & Spa </a>
-                      </h3>
-                    </div>
-                  </div>
-                </div>
-                <div className="swiper-slide">
-                  <div className="project-card">
-                    <a href="#" className="img">
-                      <img
-                        src="/innerpages/assets/img/projects/proj4.jpg"
-                        alt=""
-                        className="img-cover"
-                      />
-                      <div className="year">
-                        <span className="txt"> 2022 </span>
-                        <img
-                          src="/innerpages/assets/img/project_shape.png"
-                          alt=""
-                          className="bg"
-                        />
-                      </div>
-                      <div className="arrow">
-                        <i className="fal fa-long-arrow-right ico-45"></i>
-                      </div>
-                    </a>
-                    <div className="info">
-                      <div className="tags">
-                        <a href="#"> Interior Design </a>
-                        <a href="#"> Furniture </a>
-                      </div>
-                      <h3 className="title">
-                        <a href="#"> Boston D53 Deluxe Apartment </a>
+                        <a href="#"> GV Mall </a>
                       </h3>
                     </div>
                   </div>

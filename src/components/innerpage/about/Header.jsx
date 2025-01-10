@@ -40,18 +40,18 @@ function Header() {
             </div>
             <div className="row ps-lg-5">
               <div className="col-lg-6">
-                <h5 className="fsz-30 mt-30 fw-400">
+                {/* <h5 className="fsz-30 mt-30 fw-400">
                   Architecture and Interior <br /> Html Theme
-                </h5>
+                </h5> */}
                 <h1> About us </h1>
               </div>
             </div>
             <ul className="features-txt ps-lg-5">
+              <li> Branding </li>
+              <li> Advertising </li>
+              <li> Digital </li>
+              <li> Packaging </li>
               <li> Architecture Studio </li>
-              <li> Interior design </li>
-              <li> 3D modeling & Animation </li>
-              <li> Decoration & Furniture </li>
-              <li> High Performance </li>
             </ul>
           </div>
         </div>

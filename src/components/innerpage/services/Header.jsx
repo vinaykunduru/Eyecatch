@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Header() {
   return (
@@ -8,13 +8,17 @@ function Header() {
           <div className="container">
             <div className="row justify-content-between">
               <div className="col-lg-8">
-                <h1>
-                  Our <span className="sub-font"> Services </span>
+                <h1 className="js-title">
+                  What We Offer
+                  {/* <span className="sub-font"> Services </span> */}
                 </h1>
-                <div className="award-wrapper">
-                  <p> An Award Winning Studio </p>
-                  <span className="line"></span>
-                  <p> 2020 </p>
+                <div className="text fsz-18 color-666">
+                  <p className="text fsz-18 color-666">
+                    {" "}
+                    Explore our range of innovative solutions in branding,
+                    advertising, design, and more—crafted to elevate your
+                    vision.{" "}
+                  </p>
                 </div>
               </div>
               <div className="col-lg-4">
@@ -28,7 +32,7 @@ function Header() {
                       <div className="row">
                         <div className="col-6">
                           <h2 className="num sub-font">
-                            <span className="counter">92</span>%
+                            <span className="counter">99</span>%
                           </h2>
                           <p> Clients Satisfied </p>
                         </div>

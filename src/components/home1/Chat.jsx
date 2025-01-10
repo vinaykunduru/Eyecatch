@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Chat() {
   return (
@@ -6,11 +6,9 @@ function Chat() {
       <div className="container">
         <div className="content">
           <a href="#" className="xl-text">
-            hello@archin.co
+            hyderabad@eyecatch.co.in
           </a>
-          <h5 className="mb-50 lh-5">
-            Let us help your dream <br /> become reality
-          </h5>
+          <h5 className="mb-50 lh-5">Let us help your dream become reality</h5>
         </div>
       </div>
       <img src="/home1/assets/img/c_line4.png" alt="" className="c-line wow" />

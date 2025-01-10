@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function About() {
   return (
@@ -35,15 +35,15 @@ function About() {
           <div className="col-lg-5">
             <div className="info wow fadeInUp slow" data-wow-delay="0.2s">
               <div className="text fsz-25 fw-500 mb-20">
-                Archin Design Studio is a landscape design and construction firm
-                based in Portland, Oregon that creates residential outdoor
-                living spaces and gardens. We strive to create meaningful spaces
-                that fulfill our clients visions and function great for years to
-                come.
-              </div>
-              <div className="text fsz-25 fw-500 mb-20">
-                Our mission is on bringing a balance of healthy, beautiful
-                living spaces to our clients.
+                Starting with a modest entry into the retail sector, we have
+                crafted comprehensive publicity materials for numerous stores
+                and showrooms. Now, we are exploring opportunities to broaden
+                our interior and furniture services for both residential and
+                commercial environments. To realize this vision, we are
+                preparing to inaugurate a flagship showroom in Hyderabad,
+                featuring world-class furniture and interior solutions. This
+                showroom will serve as a centralized hub and a benchmark for all
+                our future interior design endeavors.
               </div>
             </div>
           </div>

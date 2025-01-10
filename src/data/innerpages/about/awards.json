@@ -1,41 +1,146 @@
 [
   {
-    "img": "/innerpages/assets/img/logos/logo1.svg",
+    "img": "/innerpages/assets/img/logos/AANDAAL-SILKS-150x150.jpg",
     "title": "Top 5 Interior Design Inspiration 2023",
     "subTitle": "ABERY Apartment Master Bedroom"
   },
   {
-    "img": "/innerpages/assets/img/logos/logo2.svg",
+    "img": "/innerpages/assets/img/logos/AGRITEX.jpg",
     "title": "Top 5 Interior Design Inspiration 2023",
     "subTitle": "ABERY Apartment Master Bedroom"
   },
   {
-    "img": "/innerpages/assets/img/logos/logo3.svg",
+    "img": "/innerpages/assets/img/logos/ARSA-150x150.jpg",
     "title": "Top 10 Agency Use Sustainable Material",
     "subTitle": "Neoclassical Sofa"
   },
   {
-    "img": "/innerpages/assets/img/logos/logo4.svg",
+    "img": "/innerpages/assets/img/logos/balaji.jpg",
     "title": "Winner Best CGI Artirst 2022",
     "subTitle": "Boston CGI"
   },
   {
-    "img": "/innerpages/assets/img/logos/logo5.svg",
+    "img": "/innerpages/assets/img/logos/bhama.jpg",
     "title": "Winner UID of The Year in 2020",
     "subTitle": "Bristo Restaurant"
   },
   {
-    "img": "/innerpages/assets/img/logos/logo6.svg",
+    "img": "/innerpages/assets/img/logos/CASA-150x150.jpg",
     "title": "Top 5 Excellent Furniture Store USA 2020",
     "subTitle": "Wooden Furniture"
   },
   {
-    "img": "/innerpages/assets/img/logos/logo7.svg",
+    "img": "/innerpages/assets/img/logos/CII-1.jpg",
     "title": "Top 5 Excellent Furniture Store USA 2020",
     "subTitle": "Wooden Furniture"
   },
   {
-    "img": "/innerpages/assets/img/logos/logo8.svg",
+    "img": "/innerpages/assets/img/logos/converge-1.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/dps-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/DR-REDDY.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/EAGLE-COATS-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/GV-MALL-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/IPF.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/jaycot-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/KALANIKATHAN-150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/KALANJAI-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/KISAN-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/manhar-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/MITHAI-POTLAM-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/NARAYANI-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/NPA.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/ok-silks.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/piccolo-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/SOWBHAGYA.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/STR-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/TAJ-DECCAN-150x150.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/VILAN.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/VIVANTA.jpg",
+    "title": "Top 5 Excellent Furniture Store USA 2020",
+    "subTitle": "Wooden Furniture"
+  },
+  {
+    "img": "/innerpages/assets/img/logos/VRK-SILKS-150x150.jpg",
     "title": "Top 5 Excellent Furniture Store USA 2020",
     "subTitle": "Wooden Furniture"
   }

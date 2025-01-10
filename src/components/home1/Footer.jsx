@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Footer() {
   return (
@@ -9,9 +9,10 @@ function Footer() {
             <div className="col-lg-4">
               <div className="info-side">
                 <div className="text fsz-24 color-333 lh-3 fw-600">
-                  We believe that architecture has the power to shape lives and
-                  uplift communities. Archin&lsquo;s philosophy is passion for
-                  innovation, sustainablity and t imeless aesthetics
+                  With over three decades of expertise in branding, advertising,
+                  and design, Eyecatch turns ideas into impactful stories.
+                  Driven by creativity and innovation, we craft experiences that
+                  inspire and redefine possibilities.
                 </div>
                 <div className="foot-social mt-50">
                   <a href="#">
@@ -34,20 +35,24 @@ function Footer() {
             </div>
             <div className="col-lg-3 offset-lg-2">
               <div className="branch-card">
-                <h5 className="mb-20 mt-5 mt-lg-0 fw-600"> Boston, MA </h5>
+                <h5 className="mb-20 mt-5 mt-lg-0 fw-600"> Hyderabad </h5>
                 <ul className="footer-links">
                   <li>
-                    <a href="#">Room 505, 49 Brimmer st, Boston, MA 02108</a>
+                    <a href="#">
+                      First Floor, Plot No 710, Road No. 36, <br />
+                      Aditya Enclave, Venkatagiri, Jubilee Hills, <br />
+                      Hyderabad, Telangana 500033
+                    </a>
                   </li>
                   <li>
-                    <a href="#"> contact@archinstudio.co </a>
+                    <a href="#"> hyderabad@eyecatch.co.in </a>
                   </li>
                   <li>
-                    <a href="#"> (054) 3256 78 87 </a>
+                    <a href="#"> +91 812 522 5696 </a>
                   </li>
                 </ul>
               </div>
-              <div className="branch-card">
+              {/* <div className="branch-card">
                 <h5 className="mb-20 mt-5 fw-600"> Boston, MA </h5>
                 <ul className="footer-links">
                   <li>
@@ -60,24 +65,27 @@ function Footer() {
                     <a href="#"> Sustainable Design Architect </a>
                   </li>
                 </ul>
-              </div>
+              </div> */}
             </div>
             <div className="col-lg-3">
               <div className="branch-card">
-                <h5 className="mb-20 mt-5 mt-lg-0 fw-600"> Portland, OR </h5>
+                <h5 className="mb-20 mt-5 mt-lg-0 fw-600"> Vijayawada </h5>
                 <ul className="footer-links">
                   <li>
-                    <a href="#">2221 Sw Broadway Dr, Portland, OR 97201</a>
+                    <a href="#">MG Road, Vijayawada 520010 Andhra Pradesh</a>
                   </li>
                   <li>
-                    <a href="#"> contact@archinstudio.co </a>
+                    <a href="#"> contact@eyecatch.co.in </a>
                   </li>
                   <li>
-                    <a href="#"> (021) 4246 63 68 </a>
+                    <a href="#"> +91 924 642 5696</a>
+                  </li>
+                  <li>
+                    <a href="#"> +91 903 242 5695 </a>
                   </li>
                 </ul>
               </div>
-              <div className="branch-card">
+              {/* <div className="branch-card">
                 <h5 className="mb-20 mt-5 fw-600"> Helps </h5>
                 <ul className="footer-links">
                   <li>
@@ -87,22 +95,22 @@ function Footer() {
                     <a href="#"> Partner Policy </a>
                   </li>
                 </ul>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
         <div className="foot">
           <div className="row">
             <div className="col-lg-6">
-              <p className="fsz-13">© 2023 Archin Studio. All Right Reserved</p>
+              <p className="fsz-13">© 2025 - Eyecatch. All rights reserved.</p>
             </div>
             <div className="col-lg-6">
               <div className="foot-links mt-4 mt-lg-0">
-                <a href="#"> Home </a>
-                <a href="#"> Studio </a>
-                <a href="#"> Cases </a>
-                <a href="#"> News </a>
-                <a href="#"> Contact </a>
+                <a href="/"> Home </a>
+                <a href="/about"> About </a>
+                <a href="/services"> Services </a>
+                <a href="/works"> Works </a>
+                <a href="/contact"> Contact </a>
               </div>
             </div>
           </div>

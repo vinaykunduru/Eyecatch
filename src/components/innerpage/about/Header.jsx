@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Header() {
   return (
@@ -6,7 +6,7 @@ function Header() {
       <div className="slider-card">
         <div className="img">
           <img
-            src="/innerpages/assets/img/about/header1.jpg"
+            src="/innerpages/assets/img/about/header-bg.jpg"
             alt=""
             className="img-cover"
           />
@@ -34,7 +34,7 @@ function Header() {
                       </text>
                     </svg>
                   </a>
-                  <span className="num"> 25 </span>
+                  <span className="num"> 30 </span>
                 </div>
               </div>
             </div>
@@ -56,7 +56,7 @@ function Header() {
           </div>
         </div>
       </div>
-      <div className="float-social-links">
+      {/* <div className="float-social-links">
         <ul>
           <li>
             <a href="#">
@@ -84,8 +84,8 @@ function Header() {
             </a>
           </li>
         </ul>
-      </div>
-      <div className="float-icons">
+      </div> */}
+      {/* <div className="float-icons">
         <ul>
           <li>
             <a href="#">
@@ -113,7 +113,7 @@ function Header() {
             </a>
           </li>
         </ul>
-      </div>
+      </div> */}
     </header>
   );
 }

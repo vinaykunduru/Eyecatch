@@ -1,13 +1,13 @@
-import React from 'react';
+import React from "react";
 
 function Process() {
   return (
     <section className="tc-process-style2">
       <div className="container">
         <h2 className="fsz-45 fw-500 mb-80 text-center">
-          Our Approach
+          EyeCatch
           <span className="sub-font fst-italic color-orange1 fw-400">
-            process
+            Philosophy
           </span>
         </h2>
         <div className="content">
@@ -15,124 +15,25 @@ function Process() {
             <div className="col-lg-5">
               <div className="accordion-side wow fadeInUp slow">
                 <div className="accordion" id="accordionProcess">
-                  <div className="accordion-item">
-                    <div className="accordion-header" id="headingOne">
-                      <button
-                        className="accordion-button collapsed"
-                        type="button"
-                        data-bs-toggle="collapse"
-                        data-bs-target="#collapseOne"
-                      >
-                        <span className="num"> 1 / </span> <h3> Survey </h3>
-                      </button>
-                    </div>
-                    <div
-                      id="collapseOne"
-                      className="accordion-collapse collapse"
-                      data-bs-parent="#accordionProcess"
-                    >
-                      <div className="accordion-body">
-                        <div className="text">
-                          After surveying and obtaining the necessary
-                          information, we will create a preliminary design
-                          including technical drawings, 3D images of the
-                          interior and provide a 3D VR experience to help
-                          customers get a visual view of their project.
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="accordion-item">
-                    <div className="accordion-header" id="headingTwo">
-                      <button
-                        className="accordion-button "
-                        type="button"
-                        data-bs-toggle="collapse"
-                        data-bs-target="#collapseTwo"
-                      >
-                        <span className="num"> 2 / </span> <h3> Design </h3>
-                      </button>
-                    </div>
-                    <div
-                      id="collapseTwo"
-                      className="accordion-collapse collapse show"
-                      data-bs-parent="#accordionProcess"
-                    >
-                      <div className="accordion-body">
-                        <div className="text">
-                          After surveying and obtaining the necessary
-                          information, we will create a preliminary design
-                          including technical drawings, 3D images of the
-                          interior and provide a 3D VR experience to help
-                          customers get a visual view of their project.
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="accordion-item">
-                    <div className="accordion-header" id="headingThree">
-                      <button
-                        className="accordion-button collapsed"
-                        type="button"
-                        data-bs-toggle="collapse"
-                        data-bs-target="#collapseThree"
-                      >
-                        <span className="num"> 3 / </span> <h3> Implement </h3>
-                      </button>
-                    </div>
-                    <div
-                      id="collapseThree"
-                      className="accordion-collapse collapse"
-                      data-bs-parent="#accordionProcess"
-                    >
-                      <div className="accordion-body">
-                        <div className="text">
-                          After surveying and obtaining the necessary
-                          information, we will create a preliminary design
-                          including technical drawings, 3D images of the
-                          interior and provide a 3D VR experience to help
-                          customers get a visual view of their project.
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="accordion-item">
-                    <div className="accordion-header" id="headingFour">
-                      <button
-                        className="accordion-button collapsed"
-                        type="button"
-                        data-bs-toggle="collapse"
-                        data-bs-target="#collapseFour"
-                      >
-                        <span className="num"> 4 / </span> <h3> Handover </h3>
-                      </button>
-                    </div>
-                    <div
-                      id="collapseFour"
-                      className="accordion-collapse collapse"
-                      data-bs-parent="#accordionProcess"
-                    >
-                      <div className="accordion-body">
-                        <div className="text">
-                          After surveying and obtaining the necessary
-                          information, we will create a preliminary design
-                          including technical drawings, 3D images of the
-                          interior and provide a 3D VR experience to help
-                          customers get a visual view of their project.
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                  <ul className="fsz-26 fw-600 story">
+                    <li>Stories matter. </li>
+                    <li>We are all stories. </li>
+                    <li>Parts matter. </li>
+                    <li>We are an indispensable part. </li>
+                    <li>We tell stories that comfort, enrich, enhance. </li>
+                    <li>
+                      We sell stories that are untouched and so touching.{" "}
+                    </li>
+                    <li>We are a new-age storytelling agile ensemble. </li>
+                    <li>We are a next-gen narrative mélange. </li>
+                    <li>We are all built from the stories we tell and sell.</li>
+                    <li>We are a thirsty crew. </li>
+                    <li>
+                      We harvest stories that shape the better world you desire
+                      and dream of.
+                    </li>
+                  </ul>
                 </div>
-                <a
-                  href="#"
-                  className="butn bg-white rounded-pill mt-50 hover-bg-black"
-                >
-                  <span>
-                    Get A Free Quotes
-                    <i className="ms-2 fal fa-long-arrow-right ico-45"></i>
-                  </span>
-                </a>
               </div>
             </div>
             <div className="col-lg-7">

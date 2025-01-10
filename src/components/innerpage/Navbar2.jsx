@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Navbar2() {
   return (
@@ -26,55 +26,34 @@ function Navbar2() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
-                Studio
+              <a className="nav-link" href="/about">
+                About
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
-                Cases
+              <a className="nav-link" href="/services">
+                Services
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
-                News
+              <a className="nav-link" href="/works">
+                Works
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/contact">
                 Contact
               </a>
             </li>
           </ul>
           <div className="nav-side">
-            <a href="#" className="icon ms-3">
-              <span> EN </span>
-            </a>
-            <a href="#" className="icon ms-3">
-              <span> FR </span>
-            </a>
-            <a href="#" className="icon ms-5 fsz-21 search_btn">
-              <span>
-                {' '}
-                <i className="la la-search"></i>{' '}
-              </span>
-            </a>
-            <div className="nav-search-box">
-              <div className="form-group">
-                <input type="text" placeholder="search word" />
-                <button>
-                  {' '}
-                  <i className="fal fa-search"></i>{' '}
-                </button>
-              </div>
-            </div>
             <a
               href="#"
               className="icon ms-3 side_menu_btn fsz-21 active d-none d-lg-inline-block"
             >
               <span>
-                {' '}
-                <i className="la la-grip-lines"></i>{' '}
+                {" "}
+                <i className="la la-grip-lines"></i>{" "}
               </span>
             </a>
           </div>

@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Process() {
   return (
@@ -24,7 +24,7 @@ function Process() {
                         data-bs-target="#collapseOne"
                       >
                         <span className="num"> 1 / </span>
-                        <h3> Survey & Quotes </h3>
+                        <h3> Discover & Strategize </h3>
                       </button>
                     </div>
                     <div
@@ -34,11 +34,9 @@ function Process() {
                     >
                       <div className="accordion-body">
                         <div className="text">
-                          After surveying and obtaining the necessary
-                          information, we will create a preliminary design
-                          including technical drawings, 3D images of the
-                          interior and provide a 3D VR experience to help
-                          customers get a visual view of their project.
+                          We begin by understanding your vision, analyzing
+                          market trends, and crafting a tailored strategy to
+                          align with your goals.
                         </div>
                       </div>
                     </div>
@@ -52,7 +50,7 @@ function Process() {
                         data-bs-target="#collapseTwo"
                       >
                         <span className="num"> 2 / </span>
-                        <h3> Design & Perfomance </h3>
+                        <h3> Create & Collaborate </h3>
                       </button>
                     </div>
                     <div
@@ -62,11 +60,9 @@ function Process() {
                     >
                       <div className="accordion-body">
                         <div className="text">
-                          After surveying and obtaining the necessary
-                          information, we will create a preliminary design
-                          including technical drawings, 3D images of the
-                          interior and provide a 3D VR experience to help
-                          customers get a visual view of their project.
+                          Our team develops impactful designs, compelling
+                          content, and innovative concepts while involving you
+                          at every step for feedback and refinement.
                         </div>
                       </div>
                     </div>
@@ -79,7 +75,8 @@ function Process() {
                         data-bs-toggle="collapse"
                         data-bs-target="#collapseThree"
                       >
-                        <span className="num"> 3 / </span> <h3> Hand Over </h3>
+                        <span className="num"> 3 / </span>{" "}
+                        <h3> Execute & Launch </h3>
                       </button>
                     </div>
                     <div
@@ -89,11 +86,36 @@ function Process() {
                     >
                       <div className="accordion-body">
                         <div className="text">
-                          After surveying and obtaining the necessary
-                          information, we will create a preliminary design
-                          including technical drawings, 3D images of the
-                          interior and provide a 3D VR experience to help
-                          customers get a visual view of their project.
+                          With your approval, we ensure flawless execution and
+                          seamless deployment across chosen platforms to bring
+                          your campaign to life.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="accordion-item">
+                    <div className="accordion-header" id="headingFour">
+                      <button
+                        className="accordion-button collapsed"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseFour"
+                      >
+                        <span className="num"> 4 / </span>{" "}
+                        <h3> Monitor & Optimize </h3>
+                      </button>
+                    </div>
+                    <div
+                      id="collapseFour"
+                      className="accordion-collapse collapse"
+                      data-bs-parent="#accordionProcess"
+                    >
+                      <div className="accordion-body">
+                        <div className="text">
+                          We track campaign performance, provide insights, and
+                          continuously refine strategies to maximize results and
+                          impact.
                         </div>
                       </div>
                     </div>

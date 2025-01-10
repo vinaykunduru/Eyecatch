@@ -1,19 +1,19 @@
-import React from 'react';
-import Loader from '../components/common/Loader';
-import Menu from '../components/home1/Menu';
-import Navbar from '../components/home1/Navbar';
-import Header from '../components/home1/Header';
-import Experience from '../components/home1/Experience';
-import Services from '../components/home1/Services';
-import Process from '../components/home1/Process';
-import Awards from '../components/home1/Awards';
-import Projects from '../components/home1/Projects';
-import Testimonials from '../components/home1/Testimonials';
-import Team from '../components/home1/Team';
-import Blog from '../components/home1/Blog';
-import Chat from '../components/home1/Chat';
-import Footer from '../components/home1/Footer';
-import { Helmet } from 'react-helmet';
+import React from "react";
+import Loader from "../components/common/Loader";
+import Menu from "../components/home1/Menu";
+import Navbar from "../components/home1/Navbar";
+import Header from "../components/home1/Header";
+import Experience from "../components/home1/Experience";
+import Services from "../components/home1/Services";
+import Process from "../components/home1/Process";
+import Awards from "../components/home1/Awards";
+import Projects from "../components/home1/Projects";
+import Testimonials from "../components/home1/Testimonials";
+import Team from "../components/home1/Team";
+import Blog from "../components/home1/Blog";
+import Chat from "../components/home1/Chat";
+import Footer from "../components/home1/Footer";
+import { Helmet } from "react-helmet";
 
 function Home1() {
   return (
@@ -39,9 +39,7 @@ function Home1() {
             <Process />
             <Projects />
             <Testimonials />
-            <Awards />
-            <Team />
-            <Blog />
+
             <Chat />
           </main>
           <Footer />

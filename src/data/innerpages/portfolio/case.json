@@ -1,47 +1,89 @@
 {
   "case1": [
     {
-      "img": "/innerpages/assets/img/portfolio/case1.jpg",
-      "sub1": "Architecture",
-      "sub2": "Furniture",
-      "title": "Townhouse in San Joe",
+      "img": "/innerpages/assets/img/portfolio/GV_mall_mock_up-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "GV Mall",
       "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
     },
     {
-      "img": "/innerpages/assets/img/portfolio/case2.jpg",
-      "sub1": "Interior",
-      "sub2": "Furniture",
-      "title": "Homestay Rennovation and  Interior Design",
+      "img": "/innerpages/assets/img/portfolio/eagle_coasts_mock_up-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "Eagle Coats",
       "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
     },
     {
-      "img": "/innerpages/assets/img/portfolio/case3.jpg",
-      "sub1": "Architecture",
-      "sub2": "Furniture",
-      "title": "B63 Private Villa",
+      "img": "/innerpages/assets/img/portfolio/ANANDAL_SILKS-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "Andal Silks",
+      "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
+    },
+    {
+      "img": "/innerpages/assets/img/portfolio/MITHAI_POTLAM.jpg",
+      "sub1": "Branding",
+
+      "title": "Mithai Potlam",
+      "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
+    },
+    {
+      "img": "/innerpages/assets/img/portfolio/TEEPI_KARAM_MOCK_UP-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "Teepi Karam",
+      "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
+    },
+    {
+      "img": "/innerpages/assets/img/portfolio/Kanchipuram-Perumal-Silks-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "Kanchipuram Perumal Silks",
+      "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
+    },
+    {
+      "img": "/innerpages/assets/img/portfolio/MITHAI_POTLAM.jpg",
+      "sub1": "Branding",
+
+      "title": "Mithai Potlam",
+      "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
+    },
+    {
+      "img": "/innerpages/assets/img/portfolio/TEEPI_KARAM_MOCK_UP-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "Teepi Karam",
+      "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
+    },
+    {
+      "img": "/innerpages/assets/img/portfolio/Kanchipuram-Perumal-Silks-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "Kanchipuram Perumal Silks",
       "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
     }
   ],
   "case2": [
     {
-      "img": "/innerpages/assets/img/portfolio/case3.jpg",
-      "sub1": "Architecture",
-      "sub2": "Furniture",
-      "title": "Townhouse in San Joe",
+      "img": "/innerpages/assets/img/portfolio/MITHAI_POTLAM.jpg",
+      "sub1": "Branding",
+
+      "title": "Mithai Potlam",
       "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
     },
     {
-      "img": "/innerpages/assets/img/portfolio/case1.jpg",
-      "sub1": "Interior",
-      "sub2": "Furniture",
-      "title": "Homestay Rennovation and  Interior Design",
+      "img": "/innerpages/assets/img/portfolio/TEEPI_KARAM_MOCK_UP-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "Teepi Karam",
       "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
     },
     {
-      "img": "/innerpages/assets/img/portfolio/case2.jpg",
-      "sub1": "Architecture",
-      "sub2": "Furniture",
-      "title": "B63 Private Villa",
+      "img": "/innerpages/assets/img/portfolio/Kanchipuram-Perumal-Silks-scaled.jpg",
+      "sub1": "Branding",
+
+      "title": "Kanchipuram Perumal Silks",
       "desc": "This area will is short description of project, you can select to show or hide it, <br /> this a sample short paragraph for this."
     }
   ]

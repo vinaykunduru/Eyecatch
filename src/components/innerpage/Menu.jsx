@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Menu() {
   return (
@@ -16,28 +16,28 @@ function Menu() {
               </li>
               <li>
                 <a href="#" className="main_link">
-                  studio
+                  About
                 </a>
               </li>
               <li>
                 <a href="#" className="main_link">
-                  cases
+                  Services
                 </a>
               </li>
               <li>
                 <a href="#" className="main_link">
-                  news
+                  Works
                 </a>
               </li>
               <li>
                 <a href="#" className="main_link">
-                  contact
+                  Contact
                 </a>
               </li>
             </ul>
           </div>
         </div>
-        <img
+        {/* <img
           src="/innerpages/assets/img/chat_pat2.png"
           alt=""
           className="side_shape"
@@ -46,7 +46,7 @@ function Menu() {
           src="/innerpages/assets/img/chat_pat2.png"
           alt=""
           className="side_shape2"
-        />
+        /> */}
         <span className="clss">
           <i className="la  la-times"></i>
         </span>
